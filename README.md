@@ -1,2 +1,2 @@
 # STM32F4xxxx-interrupts
-Cubemx-EXTIx external interrupts
+External interrupts with cubemx and keil.
